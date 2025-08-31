@@ -5,49 +5,49 @@ const testimonials = [
         location: "Warsaw, Poland",
         rating: 4.5,
         comment: "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
-        image: "../public/assets/asset 13.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     },
     {
         name: "Yessica Christy",
         location: "Shanxi, China",
         rating: 4.5,
         comment: "I like it because I like to travel far and still can connect with high speed.",
-        image: "../public/assets/asset 15.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     },
     {
         name: "Kim Young Jou",
         location: "Seoul, South Korea",
         rating: 4.5,
         comment: "This is very unusual for my business that currently requires a virtual private network that has high security.",
-        image: "../public/assets/asset 16.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     },
     {
         name: "Michael Chen",
         location: "Singapore",
         rating: 5.0,
         comment: "The best VPN service I've ever used. Perfect for remote work and accessing region-locked content. Highly recommended!",
-        image: "../public/assets/asset 16.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     },
     {
         name: "Sarah Williams",
         location: "London, UK",
         rating: 4.8,
         comment: "Excellent service with great speeds. I use it daily for both work and streaming. The customer support is outstanding.",
-        image: "../public/assets/asset 16.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     },
     {
         name: "Alex Rodriguez",
         location: "Madrid, Spain",
         rating: 4.7,
         comment: "Been using it for 6 months now. The connection is stable and secure. Perfect for my online banking and business needs.",
-        image: "../public/assets/asset 15.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     },
     {
         name: "Emma Thompson",
         location: "Sydney, Australia",
         rating: 4.9,
         comment: "Amazing VPN service with fantastic global coverage. Never had any issues with speed or connectivity. Worth every penny!",
-        image: "../public/assets/asset 15.png"
+        image: "https://next-landing-vpn.vercel.app/_next/image?url=%2Fassets%2Fpeople-3.png&w=128&q=75"
     }
     // Add more testimonials if needed
 ];

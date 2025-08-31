@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme{
+    --color-primary: #F53838;
+    --color-primary-text: #4F5665;
+    --color-heading-text: #0B132A;
+}
+
+@layer{
+    .section-container{
+        @apply max-w-[1440px] mx-auto  text-lg px-4 py-16;
+    }
+}
